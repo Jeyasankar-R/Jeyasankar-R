@@ -50,10 +50,15 @@
 
 ## 📫 Connect With Me
 
-[<img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn"/>](https://www.linkedin.com/in/jeya-sankar-6194ba327) | 
-[<img src="https://img.icons8.com/material-outlined/48/github.png" width="48" alt="GitHub"/>](https://github.com/Jeyasankar-R) | 
-[<img src="https://img.icons8.com/color/48/new-post.png" width="48" alt="Email"/>](mailto:jeyasankar944@gmail.com)
-
+<a href="https://www.linkedin.com/in/jeya-sankar-6194ba327" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn"/>
+</a> | 
+<a href="https://github.com/Jeyasankar-R" target="_blank">
+  <img src="https://img.icons8.com/material-outlined/48/github.png" width="48" alt="GitHub"/>
+</a> | 
+<a href="mailto:jeyasankar944@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/new-post.png" width="48" alt="Email"/>
+</a>
 
 
 
