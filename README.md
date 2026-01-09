@@ -24,9 +24,9 @@
 
 ## 🛠️ Projects (Ongoing)
 
-- 🔹 **Expense Tracker Application** (Python, OOP)  
-- 🔹 **ECG Attention-based Arrhythmia Detection** (Machine Learning)  
-- 🔹 **2D Platformer Game** (Java / Pygame)  
+-  **Expense Tracker Application** (Python, OOP)  
+-  **ECG Attention-based Arrhythmia Detection** (Machine Learning)  
+-  **2D Platformer Game** (Java / Pygame)  
 
 
 
