@@ -50,7 +50,11 @@
 
 ## 📫 Connect With Me
 
-💼 [LinkedIn](www.linkedin.com/in/jeya-sankar-6194ba327) | 🧑‍💻 [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | ✉️ [Email](mailto:yourname@email.com)
+[<img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn"/>](https://www.linkedin.com/in/jeya-sankar-6194ba327) | 
+[<img src="https://img.icons8.com/material-outlined/48/github.png" width="48" alt="GitHub"/>](https://github.com/Jeyasankar-R) | 
+[<img src="https://img.icons8.com/color/48/new-post.png" width="48" alt="Email"/>](mailto:jeyasankar944@gmail.com)
+
+
 
 
 
