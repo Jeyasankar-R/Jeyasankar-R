@@ -60,8 +60,9 @@
   <img src="https://img.icons8.com/color/48/discord-logo.png" width="48" alt="Discord"/>
 </a> |
  | 
-
-
+ <a href="https://www.reddit.com/user/Free_Driver_9524" target="_blank">
+  <img src="https://img.icons8.com/color/48/reddit--v1.png" width="48" alt="Reddit"/>
+</a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jeyasankar944@gmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
