@@ -32,11 +32,11 @@
 
 ## 🧰 Tools & Technologies
 
-- 📱 **Android Studio** – Mobile app development and testing  
-- 💻 **VS Code** – Code editor for Python, Java, and web projects  
-- 🎨 **Adobe Photoshop** – Image editing and poster design  
-- 🎬 **Shortcut Video Editor** – Video trimming and simple edits  
-- 🎮 **Struckd Game Engine** – Basic game levels and gameplay logic  
+- 📱 **Android Studio**  
+- 💻 **VS Code**
+- 🎨 **Adobe Photoshop**
+- 🎬 **Shortcut Video Editor**
+- 🎮 **Struckd Game Engine**
 
 
 
@@ -70,4 +70,4 @@
 
 
 
-⭐ *Always learning. Always building. Always improving.*
+
