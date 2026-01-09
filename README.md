@@ -56,9 +56,10 @@
 <a href="https://github.com/Jeyasankar-R" target="_blank">
   <img src="https://img.icons8.com/color/48/github.png" width="48" alt="GitHub"/>
 </a> | 
-<a href="https://discord.com/users/jeyasankar002" target="_blank">
+<a href="https://discord.com/users/1459234788043919390" target="_blank">
   <img src="https://img.icons8.com/color/48/discord-logo.png" width="48" alt="Discord"/>
-</a> | 
+</a> |
+ | 
 
 
 
